@@ -1,1 +1,1 @@
-# IoT-Firmware-Image-Classification
+## IoT Firmware Image Classification
